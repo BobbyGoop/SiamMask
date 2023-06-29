@@ -1,4 +1,5 @@
 # SiamMask
+**IN PROGRESS:** Add Windows install guides
 
 **NEW:** now including code for both training and inference!
 
